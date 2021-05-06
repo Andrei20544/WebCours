@@ -1,0 +1,23 @@
+.container__title{
+    margin-top: 48px;
+    margin-bottom: 56px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.content__item{
+    padding-top: 50px;
+    margin-bottom: 48px;
+}
+
+.content__item-title{
+    font-size: 30px;
+}
+
+.content__item-icon{
+    margin-bottom: 15px;
+}
+
+ul{
+    color: red;
+}
